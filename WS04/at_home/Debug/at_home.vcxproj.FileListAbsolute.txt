@@ -1,0 +1,4 @@
+E:\sem 1\IPC-Workshops-master\WS04\at_home\Debug\at_home.exe
+E:\sem 1\IPC-Workshops-master\WS04\at_home\Debug\at_home.pdb
+D:\sem 1\IPC-Workshops-master\WS04\at_home\Debug\at_home.exe
+D:\sem 1\IPC-Workshops-master\WS04\at_home\Debug\at_home.pdb

@@ -1,0 +1,2 @@
+E:\sem 1\IPC-Workshops-master\WS04\in_lab\Debug\in_lab.exe
+E:\sem 1\IPC-Workshops-master\WS04\in_lab\Debug\in_lab.pdb

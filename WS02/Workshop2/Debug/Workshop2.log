@@ -1,0 +1,6 @@
+﻿  cashRegister.c
+E:\sem 1\IPC-Workshops-master\WS02\Workshop2\cashRegister.c(15,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\sem 1\IPC-Workshops-master\WS02\Workshop2\cashRegister.c(18,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\sem 1\IPC-Workshops-master\WS02\Workshop2\cashRegister.c(21,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\sem 1\IPC-Workshops-master\WS02\Workshop2\cashRegister.c(24,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Workshop2.vcxproj -> E:\sem 1\IPC-Workshops-master\WS02\Workshop2\Debug\Workshop2.exe

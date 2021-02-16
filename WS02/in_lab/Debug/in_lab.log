@@ -1,0 +1,3 @@
+﻿  cashRegister.c
+E:\sem 1\IPC-Workshops-master\WS02\in_lab\cashRegister.c(20,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  in_lab.vcxproj -> E:\sem 1\IPC-Workshops-master\WS02\in_lab\Debug\in_lab.exe
